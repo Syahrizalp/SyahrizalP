@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Syahrizal 👋
+# Hi, I'm Syahrizal Prahastia👋
 
 *Informatics Student & Software Engineer · AI Automation Enthusiast*
 
