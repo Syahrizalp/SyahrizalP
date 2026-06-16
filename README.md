@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi, I'm Syahrizal Prahastia 👋
 
@@ -22,4 +22,4 @@
 
 <img src="https://streak-stats.demolab.com?user=SyahrizalP&theme=transparent&hide_border=true"/>
 
-</div>
+</div> -->
