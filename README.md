@@ -2,11 +2,8 @@
 
 # Hi, I'm Syahrizal 👋
 
-*Informatics Student · Laravel Developer · AI & Automation Enthusiast*
+*Informatics Student & Software Engineer · AI Automation Enthusiast*
 
-Passionate about building AI-powered solutions and automation tools that solve real-world problems.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -23,21 +20,9 @@ Passionate about building AI-powered solutions and automation tools that solve r
 
 ---
 
-### 🌱 Currently Learning
 
-`Flutter` · `AI Integration` · `Automation Workflows` · `System Design`
 
----
 
-### 🎯 Current Goals
 
-- Master **Laravel** & **Flutter** for full-stack & mobile development
-- Integrate **AI** into practical, real-world applications
-- Build **automation tools** that improve productivity
-- Contribute to **open source** projects
-
----
-
-*"Keep learning, keep building, keep automating."*
 
 </div>
